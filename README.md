@@ -6,7 +6,8 @@ This app allows the user to edit the text, to change the default background colo
 color according to the programmed color in the app. 
 
 ### App Walk-though
-<img src= " https://i.imgur.com/XWH9gFy.gif " width=200><br>
+https://i.imgur.com/XWH9gFy.gif
+<img src= "https://i.imgur.com/XWH9gFy.gif " width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
